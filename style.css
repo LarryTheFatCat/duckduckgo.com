@@ -10,3 +10,15 @@ svg {
     transform: translateX(-50%);
     margin-top: 127px;
 }
+
+.duckduckgo-searchbar {
+    background-color: #333333;
+    border-color: #333333;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 50%);
+    width: 520px;
+    height: 41px;
+    border-radius: 7px;
+    position: relative;
+    top: 75px;
+    left: 120px;
+}
