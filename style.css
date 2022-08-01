@@ -3,6 +3,10 @@ html, body, footer {
 }
 
 svg {
-    width: 15%;
+    width: 13.5%;
     height: auto;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 127px;
 }
