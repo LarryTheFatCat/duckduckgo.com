@@ -93,3 +93,16 @@ button {
     border-left-style: hidden;
     border-bottom-style: hidden;
 }
+
+#svg-two {
+    width: 25px;
+    height: auto;
+    position: absolute;
+    top: 58.5%;
+    left: 60%;
+}
+
+#svg-two:hover {
+    cursor: auto;
+
+}
