@@ -47,12 +47,20 @@ svg {
     cursor: pointer;
 }
 
+svg:hover {
+    color: white;
+}
+
 .btn {
     background-color: #333333;
     border-top-style: hidden;
     border-right-style: hidden;
     border-left-style: hidden;
     border-bottom-style: solid;
+}
+
+button {
+    color: white;
 }
 
 .btn-submit {
@@ -70,6 +78,18 @@ svg {
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0.373);
 }
-svg:hover {
-    color: white;
+
+
+.btn-sites {
+    position: relative;
+    top: 180px;
+    left: 650px;
+    height: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 4px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
 }
